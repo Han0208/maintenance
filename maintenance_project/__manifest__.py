@@ -10,6 +10,7 @@
     "website": "https://github.com/OCA/maintenance",
     "depends": ["base_maintenance", "project"],
     "data": [
+        
         # "views/maintenance_equipment_views.xml",
         "views/maintenance_request_views.xml",
         "views/project_project_views.xml",
